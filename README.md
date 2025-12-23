@@ -1,8 +1,5 @@
 # Global-Health-Statistics-PowerBI
 An interactive Power BI dashboard project analyzing global health statistics across 20 countries and 20 diseases from 2000 to 2024. The project focuses on country-wise trends, demographic impact, KPIs, and slicer-based analysis using real-world health data.
-# Global Health Statistics Dashboard (Power BI)
-
-This repository contains an interactive **Power BI dashboard project** developed to analyze global health statistics across multiple countries, diseases, and population groups. The dashboard enables dynamic analysis through KPIs, slicers, and visualizations using real-world healthcare data.
 
 ---
 
