@@ -103,10 +103,12 @@ This visualization breaks down population affected across different disease cate
 ---
 
 ## 📂 Repository Contents
-- [https://app.powerbi.com/groups/me/reports/4dc614a1-8a36-4f67-b801-fe94c2d0bc01/a7ba757dcdd0312c3b6e?experience=power-bi](url)
-- Power BI Final Report.pdf  
-- Global Health Statistics.csv 
-
+-  pbix file - [https://app.powerbi.com/groups/me/reports/4dc614a1-8a36-4f67-b801-fe94c2d0bc01/a7ba757dcdd0312c3b6e?experience=power-bi](url)
+-  Power BI Project Report.pdf
+-  README.md
+-  cover page.png
+-  insurance-health-care-banner-insurance-health-care.png
+  
 ---
 
 ## 🔗 Dataset Source
