@@ -96,7 +96,6 @@ This visualization breaks down population affected across different disease cate
 ## 🧹 Data Preparation & Processing
 <img width="321" height="284" alt="image" src="https://github.com/user-attachments/assets/46b31ac4-89d3-4510-86ca-4424bedec710" />
 
-
 - Data cleaning and transformation performed using Power Query  
 - Data type correction, trimming, value replacement, and sorting applied  
 - Conditional column created for mortality classification  
@@ -104,8 +103,7 @@ This visualization breaks down population affected across different disease cate
 ---
 
 ## 📂 Repository Contents
-
-- Global Health Statistics Dashboard.pbix  
+- [https://app.powerbi.com/groups/me/reports/4dc614a1-8a36-4f67-b801-fe94c2d0bc01/a7ba757dcdd0312c3b6e?experience=power-bi](url)
 - Power BI Final Report.pdf  
 - Global Health Statistics.csv 
 
